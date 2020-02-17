@@ -3,16 +3,17 @@
 ## LE CLIENT
 
 Olivier Cornil : 
-photographe, professeur de photographie à St-Luc, travaille à l'ASBL L'Image Sans Nom 
+photographe, professeur de photographie à St-Luc, travaille à l'ASBL L'Image Sans Nom
 oli@oliviercornil.be 
 
 L'Image Sans Nom (ISN) : 
-- lieu : Place Vivegnis 6, 4000 Liège. Cartier St-Léonard, lieu de culture, vivant 
-- espace d'exposition photographique et lieu dédié aux livres, possibilité de les consulter sur place 
+- Lieu : Place Vivegnis 6, 4000 Liège. Cartier St-Léonard, lieu de culture, vivant 
+- Espace d'exposition photographique et lieu dédié aux livres, possibilité de les consulter sur place 
+- Près de 4000 références de bouquins sur la photographie, la vidéo, etc (principalement la photo)
 - +/- 50m courant d'exposition 
 - +/- 10 expositions en 3 ans
 - ASBL financée par fonds propres 
-- entrée expo gratuite 
+- Entrée expo gratuite 
 - Lieu de plaisir !! 
 - Espace d'expérimentation et d'amusement
 
@@ -23,9 +24,9 @@ L'Image Sans Nom (ISN) :
 Public Cible : 
 - Les photographes professionnels 
 - Toutes les personnes qui s'intéressent à la photographie 
-- public cible vaste (tout âges)
+- public cible vaste (tout âges, pro, amateurs, ...) 
 
-BUT du site : 
+Objectif du site : 
 - outil de communication 
 - valoriser les livres (livre du mois)
 - articles relatifs aux expos
@@ -33,25 +34,27 @@ BUT du site :
 
 Contraintes client : 
 - Interface simple à mettre à jour !!! 
-- 2 espaces spécifiques dédiés aux : livres et aux expos 
+- 2 espaces spécifiques dédiés aux : livres et aux expos (sur le même pied d'égalité -> importance)
 - Respecter la charte graphique : 
     - typo -> titre (police fournie), texte (à définir, police simple et universelle)
-    - couleurs -> variantes de jaune est un + (!défi contraste) mais libre de choisir une autre couleur
+    - couleurs -> variantes de jaune (couleur de base : jaune primaire) 
 - Site multilingue -> prévoir un bouton pour le changement de langue
 - Newsletter efficace -> à mettre en avant !! lié à mailchimp 
 - Formulaire de contact (objet à choix) : 
     - visiter l'exposition
-    - organiser un évènement/activité
+    - organiser une visite privée
     - consulter la bibliothèque 
     - autre 
 - Menu nav libre -> créatif est un + mais attention à la cohérence dans le site
 - Images = place importante -> !! optimisation chargement 
-- Focalisation sur le texte et les images bien distincte 
+- Focalisation sur le texte et les images bien distincte (split screen) 
 - Sobre, épuré, simple 
 - Plaisir !! 
 - Liberté artistique 
 - !! artistique mais accessible (demande client)
 - mettre en avant les liens vers les réseaux sociaux 
+- site de partage automatique sur facebook quand il poste un article sur le site
+- proposer aux utilisateurs la possibilité de télécharger un pdf reprennant les infos concernant les expos, livres, ... 
 
 Plan des Pages :
 - Home :
