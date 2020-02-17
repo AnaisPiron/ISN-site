@@ -3,29 +3,29 @@
 ##LE CLIENT
 
 Olivier Cornil : 
-    photographe, professeur de photographie à St-Luc, travaille à l'ASBL L'Image Sans Nom 
+photographe, professeur de photographie à St-Luc, travaille à l'ASBL L'Image Sans Nom 
 
 L'Image Sans Nom (ISN) : 
-    - lieu : Place Vivegnis 6, 4000 Liège. Cartier St-Léonard, lieu de culture, vivant 
-    - espace d'exposition photographique et lieu dédié aux livres, possibilité de les consulter sur place 
-    - +/- 50m courant d'exposition 
-    - +/- 10 expositions en 3 ans
-    - ASBL financée par fonds propres 
-    - entrée expo gratuite 
-    - Lieu de plaisir !! 
-    - Espace d'expérimentation et d'amusement
+- lieu : Place Vivegnis 6, 4000 Liège. Cartier St-Léonard, lieu de culture, vivant 
+- espace d'exposition photographique et lieu dédié aux livres, possibilité de les consulter sur place 
+- +/- 50m courant d'exposition 
+- +/- 10 expositions en 3 ans
+- ASBL financée par fonds propres 
+- entrée expo gratuite 
+- Lieu de plaisir !! 
+- Espace d'expérimentation et d'amusement
 
 ##LE PROJET
 
 #Réalisation du site internet 
 
 Public Cible : 
-
+?
 
 BUT du site : 
-    - outil de communication 
-    - valoriser les livres (livre du mois)
-    - articles relatifs aux expos
+- outil de communication 
+- valoriser les livres (livre du mois)
+- articles relatifs aux expos
 
 Contraintes client : 
 - Interface simple à mettre à jour !!! 
