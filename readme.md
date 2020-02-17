@@ -1,9 +1,10 @@
-#Projet : L'Image Sans Nom 
+# Projet : L'Image Sans Nom 
 
-##LE CLIENT
+## LE CLIENT
 
 Olivier Cornil : 
 photographe, professeur de photographie à St-Luc, travaille à l'ASBL L'Image Sans Nom 
+oli@oliviercornil.be 
 
 L'Image Sans Nom (ISN) : 
 - lieu : Place Vivegnis 6, 4000 Liège. Cartier St-Léonard, lieu de culture, vivant 
@@ -15,17 +16,20 @@ L'Image Sans Nom (ISN) :
 - Lieu de plaisir !! 
 - Espace d'expérimentation et d'amusement
 
-##LE PROJET
+## LE PROJET
 
-#Réalisation du site internet 
+# Réalisation du site internet 
 
 Public Cible : 
-?
+- Les photographes professionnels 
+- Toutes les personnes qui s'intéressent à la photographie 
+- public cible vaste (tout âges)
 
 BUT du site : 
 - outil de communication 
 - valoriser les livres (livre du mois)
 - articles relatifs aux expos
+- présenter le lieu, sa philosophie, ses objectifs + présenter et mettre en avant la bibliothèque et les expos (invitation à venir visiter)
 
 Contraintes client : 
 - Interface simple à mettre à jour !!! 
@@ -34,7 +38,7 @@ Contraintes client :
     - typo -> titre (police fournie), texte (à définir, police simple et universelle)
     - couleurs -> variantes de jaune est un + (!défi contraste) mais libre de choisir une autre couleur
 - Site multilingue -> prévoir un bouton pour le changement de langue
-- Newsletter efficace -> à mettre en avant
+- Newsletter efficace -> à mettre en avant !! lié à mailchimp 
 - Formulaire de contact (objet à choix) : 
     - visiter l'exposition
     - organiser un évènement/activité
@@ -47,12 +51,13 @@ Contraintes client :
 - Plaisir !! 
 - Liberté artistique 
 - !! artistique mais accessible (demande client)
+- mettre en avant les liens vers les réseaux sociaux 
 
 Plan des Pages :
-- Home 
-- Newsletter mise en avant
-- Livre du mois 
-- expo du moment
+- Home :
+    - Newsletter mise en avant
+    - Livre du mois 
+    - expo du moment
 - À propos :
     - présentation de l'équipe
     - lien vers leurs sites perso
