@@ -19,20 +19,20 @@ L'Image Sans Nom (ISN) :
 
 ## LE PROJET
 
-# Réalisation du site internet 
+> Réalisation du site internet 
 
-Public Cible : 
+### Public Cible : 
 - Les photographes professionnels 
 - Toutes les personnes qui s'intéressent à la photographie 
 - public cible vaste (tout âges, pro, amateurs, ...) 
 
-Objectif du site : 
+### Objectif du site : 
 - outil de communication 
 - valoriser les livres (livre du mois)
 - articles relatifs aux expos
 - présenter le lieu, sa philosophie, ses objectifs + présenter et mettre en avant la bibliothèque et les expos (invitation à venir visiter)
 
-Contraintes client : 
+### Contraintes client : 
 - Interface simple à mettre à jour !!! 
 - 2 espaces spécifiques dédiés aux : livres et aux expos (sur le même pied d'égalité -> importance)
 - Respecter la charte graphique : 
@@ -56,7 +56,7 @@ Contraintes client :
 - site de partage automatique sur facebook quand il poste un article sur le site
 - proposer aux utilisateurs la possibilité de télécharger un pdf reprennant les infos concernant les expos, livres, ... 
 
-Plan des Pages :
+### Plan des Pages :
 - Home :
     - Newsletter mise en avant
     - Livre du mois 
@@ -81,3 +81,7 @@ Plan des Pages :
 
 # Moodboard
 [Moodboard sur inVision](https://anais863850.invisionapp.com/board/LImage-Sans-Nom-ck6hyz7zq0cwd18yi686eunrd?v=6c%2BU8roKKgzPbqV5dHuFgA%3D%3D&linkshare=urlcopied)
+
+# Design
+- [Lien vers la version DESKTOP du design sur Adobe XD](https://xd.adobe.com/view/f23af38c-cec6-459b-4d83-eea246c9bdbb-840b/)
+- [Lien vers la version MOBILE du design sur Adobe XD](https://xd.adobe.com/view/cbcb6881-d8e3-4ec8-7fa7-61601077695b-bdfa/)
